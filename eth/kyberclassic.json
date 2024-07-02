@@ -1,0 +1,53 @@
+[
+    {
+        "dexId": "KYBER_CLASSIC",
+        "poolId": "0xd343d5dba2fba55eef58189619c05e33cab95ca1",
+        "cumulativeVolumeUSD": 48233529358.53142,
+        "tokens": [
+            {
+                "_address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "KYBER_CLASSIC",
+        "poolId": "0x61639d6ec06c13a96b5eb9560b359d7c648c7759",
+        "cumulativeVolumeUSD": 48233529358.53142,
+        "tokens": [
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "b"
+            },
+            {
+                "_address": "0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202",
+                "decimals": 18,
+                "name": "a"
+            }
+        ]
+    },
+    {
+        "dexId": "KYBER_CLASSIC",
+        "poolId": "0x306121f1344ac5f84760998484c0176d7bfb7134",
+        "cumulativeVolumeUSD": 48233529358.53142,
+        "tokens": [
+            {
+                "_address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                "decimals": 18,
+                "name": "b"
+            },
+            {
+                "_address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+                "decimals": 18,
+                "name": "a"
+            }
+        ]
+    }
+]

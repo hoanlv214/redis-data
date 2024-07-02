@@ -1,0 +1,104 @@
+[
+    {
+        "dexId": "SHIBASWAP",
+        "poolId": "0x76ec974feaf0293f64cf8643e0f42dea5b71689b",
+        "cumulativeVolumeUSD": 0,
+        "tokens": [
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0x198065e69a86cb8a9154b333aad8efe7a3c256f8",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "SHIBASWAP",
+        "poolId": "0x6cbe748b2ee80c9edeb5e882f9be88871b5f15a8",
+        "cumulativeVolumeUSD": 0,
+        "tokens": [
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0x5de869e3e62b0fb2c15573246ba3bb3fd97a2275",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "SHIBASWAP",
+        "poolId": "0x9ea468e0ffc6a6dbfc6c81e81efe15719fd88b67",
+        "cumulativeVolumeUSD": 0,
+        "tokens": [
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0x16cc8367055ae7e9157dbcb9d86fd6ce82522b31",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "SHIBASWAP",
+        "poolId": "0x7e439bfe38105802fa295a25115c42544011427a",
+        "cumulativeVolumeUSD": 0,
+        "tokens": [
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0x1aa51bc7eb181ce48ce626bf62f8956fa9555136",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "SHIBASWAP",
+        "poolId": "0x0dba3dfee43d9b6450c716c58fdae8d3be37fdc9",
+        "cumulativeVolumeUSD": 0,
+        "tokens": [
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0xdc63269ea166b70d4780b3a11f5c825c2b761b01",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "SHIBASWAP",
+        "poolId": "0x6593f97975400fcfee16a44d8448bb0509743e8e",
+        "cumulativeVolumeUSD": 0,
+        "tokens": [
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0x7d29a64504629172a429e64183d6673b9dacbfce",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    }
+]

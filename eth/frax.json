@@ -1,0 +1,36 @@
+[
+    {
+        "dexId": "FRAX",
+        "poolId": "0x5e8c1ad4c3d04f059d5c1a2ce4593e53be270bca",
+        "cumulativeVolumeUSD": 0,
+        "tokens": [
+            {
+                "_address": "0xc91a71a1ffa3d8b22ba615ba1b9c01b2bbbf55ad",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0x853d955acef822db058eb8505911ed77f175b99e",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "FRAX",
+        "poolId": "0x31351bf3fba544863fbff44ddc27ba880916a199",
+        "cumulativeVolumeUSD": 0,
+        "tokens": [
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0x853d955acef822db058eb8505911ed77f175b99e",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    }
+]

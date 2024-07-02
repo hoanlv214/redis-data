@@ -1,0 +1,36 @@
+[
+    {
+        "dexId": "SMARTDEX",
+        "poolId": "0xd2bf378cea07fe117ffdfd3f5b7e53c2b0b78c05",
+        "cumulativeVolumeUSD": 48233529358.53142,
+        "tokens": [
+            {
+                "_address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0x5de8ab7e27f6e7a1fff3e5b337584aa43961beef",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "SMARTDEX",
+        "poolId": "0xf3a4b8efe3e3049f6bc71b47ccb7ce6665420179",
+        "cumulativeVolumeUSD": 48233529358.53142,
+        "tokens": [
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0x5de8ab7e27f6e7a1fff3e5b337584aa43961beef",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    }
+]

@@ -1,0 +1,220 @@
+[
+    {
+        "id": "0x3e5fa9518ea95c3e533eb377c001702a9aacaa32000200000000000000000052",
+        "address": "0x3e5fa9518ea95c3e533eb377c001702a9aacaa32",
+        "poolType": "Weighted",
+        "poolTypeVersion": 1,
+        "tokens": [
+            {
+                "id": "0x3e5fa9518ea95c3e533eb377c001702a9aacaa32000200000000000000000052-0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "Wrapped Ether"
+            },
+            {
+                "id": "0x3e5fa9518ea95c3e533eb377c001702a9aacaa32000200000000000000000052-0xdac17f958d2ee523a2206206994597c13d831ec7",
+                "decimals": 6,
+                "name": "Tether USD"
+            }
+        ]
+    },
+    {
+        "id": "0x96646936b91d6b9d7d0c47c496afbf3d6ec7b6f8000200000000000000000019",
+        "address": "0x96646936b91d6b9d7d0c47c496afbf3d6ec7b6f8",
+        "poolType": "Weighted",
+        "poolTypeVersion": 1,
+        "tokens": [
+            {
+                "id": "0x96646936b91d6b9d7d0c47c496afbf3d6ec7b6f8000200000000000000000019-0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                "decimals": 6,
+                "name": "USD Coin"
+            },
+            {
+                "id": "0x96646936b91d6b9d7d0c47c496afbf3d6ec7b6f8000200000000000000000019-0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "Wrapped Ether"
+            }
+        ]
+    },
+    {
+        "id": "0x3f7c10701b14197e2695dec6428a2ca4cf7fc3b800020000000000000000023c",
+        "address": "0x3f7c10701b14197e2695dec6428a2ca4cf7fc3b8",
+        "poolType": "Weighted",
+        "poolTypeVersion": 1,
+        "tokens": [
+            {
+                "id": "0x3f7c10701b14197e2695dec6428a2ca4cf7fc3b800020000000000000000023c-0x888888435fde8e7d4c54cab67f206e4199454c60",
+                "decimals": 6,
+                "name": "DFX Token"
+            },
+            {
+                "id": "0x3f7c10701b14197e2695dec6428a2ca4cf7fc3b800020000000000000000023c-0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "Wrapped Ether"
+            }
+        ]
+    },
+    {
+        "id": "0x8167a1117691f39e05e9131cfa88f0e3a620e96700020000000000000000038c",
+        "address": "0x8167a1117691f39e05e9131cfa88f0e3a620e967",
+        "poolType": "Weighted",
+        "poolTypeVersion": 1,
+        "tokens": [
+            {
+                "id": "0x8167a1117691f39e05e9131cfa88f0e3a620e96700020000000000000000038c-0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "Wrapped Ether"
+            },
+            {
+                "id": "0x8167a1117691f39e05e9131cfa88f0e3a620e96700020000000000000000038c-0xcdf7028ceab81fa0c6971208e83fa7872994bee5",
+                "decimals": 18,
+                "name": "T Token"
+            }
+        ]
+    },
+    {
+        "id": "0xcfca23ca9ca720b6e98e3eb9b6aa0ffc4a5c08b9000200000000000000000274",
+        "address": "0xcfca23ca9ca720b6e98e3eb9b6aa0ffc4a5c08b9",
+        "poolType": "Weighted",
+        "poolTypeVersion": 1,
+        "tokens": [
+            {
+                "id": "0xcfca23ca9ca720b6e98e3eb9b6aa0ffc4a5c08b9000200000000000000000274-0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "Wrapped Ether"
+            },
+            {
+                "id": "0xcfca23ca9ca720b6e98e3eb9b6aa0ffc4a5c08b9000200000000000000000274-0xc0c293ce456ff0ed870add98a0828dd4d2903dbf",
+                "decimals": 18,
+                "name": "Aura Token"
+            }
+        ]
+    },
+    {
+        "id": "0x5c6ee304399dbdb9c8ef030ab642b10820db8f56000200000000000000000014",
+        "address": "0x5c6ee304399dbdb9c8ef030ab642b10820db8f56",
+        "poolType": "Weighted",
+        "poolTypeVersion": 1,
+        "tokens": [
+            {
+                "id": "0x5c6ee304399dbdb9c8ef030ab642b10820db8f56000200000000000000000014-0xba100000625a3754423978a60c9317c58a424e3d",
+                "decimals": 18,
+                "name": "Balancer Token"
+            },
+            {
+                "id": "0x5c6ee304399dbdb9c8ef030ab642b10820db8f56000200000000000000000014-0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "Wrapped Ether"
+            }
+        ]
+    },
+    {
+        "id": "0xcf7b51ce5755513d4be016b0e28d6edeffa1d52a000200000000000000000617",
+        "address": "0xcf7b51ce5755513d4be016b0e28d6edeffa1d52a",
+        "poolType": "Weighted",
+        "poolTypeVersion": 1,
+        "tokens": [
+            {
+                "id": "0xcf7b51ce5755513d4be016b0e28d6edeffa1d52a000200000000000000000617-0x137ddb47ee24eaa998a535ab00378d6bfa84f893",
+                "decimals": 18,
+                "name": "Aura Token"
+            },
+            {
+                "id": "0xcf7b51ce5755513d4be016b0e28d6edeffa1d52a000200000000000000000617-0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "Wrapped Ether"
+            }
+        ]
+    },
+    {
+        "id": "0xe8cc7e765647625b95f59c15848379d10b9ab4af0002000000000000000001de",
+        "address": "0xe8cc7e765647625b95f59c15848379d10b9ab4af",
+        "poolType": "Weighted",
+        "poolTypeVersion": 1,
+        "tokens": [
+            {
+                "id": "0xe8cc7e765647625b95f59c15848379d10b9ab4af0002000000000000000001de-0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "Wrapped Ether"
+            },
+            {
+                "id": "0xe8cc7e765647625b95f59c15848379d10b9ab4af0002000000000000000001de-0xf203ca1769ca8e9e8fe1da9d147db68b6c919817",
+                "decimals": 18,
+                "name": "WNCG Token"
+            }
+        ]
+    },
+    {
+        "id": "0xb986fd52697f16be888bfad2c5bf12cd67ce834b000200000000000000000634",
+        "address": "0xb986fd52697f16be888bfad2c5bf12cd67ce834b",
+        "poolType": "Weighted",
+        "poolTypeVersion": 1,
+        "tokens": [
+            {
+                "id": "0xb986fd52697f16be888bfad2c5bf12cd67ce834b000200000000000000000634-0x3106a0a076bedae847652f42ef07fd58589e001f",
+                "decimals": 18,
+                "name": "Aura Token"
+            },
+            {
+                "id": "0xb986fd52697f16be888bfad2c5bf12cd67ce834b000200000000000000000634-0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "Wrapped Ether"
+            }
+        ]
+    },
+    {
+        "id": "0xcb0e14e96f2cefa8550ad8e4aea344f211e5061d00020000000000000000011a",
+        "address": "0xcb0e14e96f2cefa8550ad8e4aea344f211e5061d",
+        "poolType": "Weighted",
+        "poolTypeVersion": 1,
+        "tokens": [
+            {
+                "id": "0xcb0e14e96f2cefa8550ad8e4aea344f211e5061d00020000000000000000011a-0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "Wrapped Ether"
+            },
+            {
+                "id": "0xcb0e14e96f2cefa8550ad8e4aea344f211e5061d00020000000000000000011a-0xcafe001067cdef266afb7eb5a286dcfd277f3de5",
+                "decimals": 18,
+                "name": "Aura Token"
+            }
+        ]
+    },
+    {
+        "address": "0xb460daa847c45f1c4a41cb05bfb3b51c92e41b36",
+        "id": "0xb460daa847c45f1c4a41cb05bfb3b51c92e41b36000200000000000000000194",
+        "name": "20WBTC-80BADGER",
+        "poolType": "Weighted",
+        "poolTypeVersion": 1,
+        "tokens": [
+            {
+                "decimals": 8,
+                "id": "0xb460daa847c45f1c4a41cb05bfb3b51c92e41b36000200000000000000000194-0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+                "name": "Wrapped BTC"
+            },
+            {
+                "decimals": 18,
+                "id": "0xb460daa847c45f1c4a41cb05bfb3b51c92e41b36000200000000000000000194-0x3472a5a71965499acd81997a54bba8d852c6e53d",
+                "name": "Badger DAO"
+            }
+        ]
+    },
+    {
+        "address": "0xa6f548df93de924d73be7d25dc02554c6bd66db5",
+        "id": "0xa6f548df93de924d73be7d25dc02554c6bd66db500020000000000000000000e",
+        "name": "Balancer 50 WBTC 50 WETH",
+        "poolType": "Weighted",
+        "poolTypeVersion": 1,
+        "tokens": [
+            {
+                "decimals": 8,
+                "id": "0xa6f548df93de924d73be7d25dc02554c6bd66db500020000000000000000000e-0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+                "name": "Wrapped BTC"
+            },
+            {
+                "decimals": 18,
+                "id": "0xa6f548df93de924d73be7d25dc02554c6bd66db500020000000000000000000e-0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "name": "Wrapped Ether"
+            }
+        ]
+    }
+]

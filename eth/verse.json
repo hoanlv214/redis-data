@@ -1,0 +1,19 @@
+[
+    {
+        "dexId": "VERSE",
+        "poolId": "0x845c0179060362f071ff5c7f1d2703617a480f3e",
+        "cumulativeVolumeUSD": 0,
+        "tokens": [
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0x249ca82617ec3dfb2589c4c17ab7ec9765350a18",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    }
+]

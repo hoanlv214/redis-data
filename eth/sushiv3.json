@@ -1,0 +1,2739 @@
+[
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x1ef68d35b1a307af5e8ea67d29ce511d89d8faea",
+    "cumulativeVolumeUSD": 546571.3241618887,
+    "tokens": [
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xee7527841a932d2912224e20a405e1a1ff747084",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x87c7056bbe6084f03304196be51c6b90b6d85aa2",
+    "cumulativeVolumeUSD": 261906.32155162937,
+    "tokens": [
+      {
+        "_address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x9f78c74b14cafbb65c1de4b0451add80fe9ca257",
+    "cumulativeVolumeUSD": 77635.72451686228,
+    "tokens": [
+      {
+        "_address": "0x9ce84f6a69986a83d92c324df10bc8e64771030f",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x5ea523e496d049e2ba8b303c8d85c83fb6f285f8",
+    "cumulativeVolumeUSD": 74462.004728,
+    "tokens": [
+      {
+        "_address": "0x1151cb3d861920e07a38e03eead12c32178567f6",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xe29b9a718c683331515f304e91d3fe47662bd031",
+    "cumulativeVolumeUSD": 54716.42092287935,
+    "tokens": [
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xd27b128dc6536309cdebf7f1aff0cb7717bc0268",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xe21a3d4b5eb12444554f504a8f17cc0a78fc6d55",
+    "cumulativeVolumeUSD": 28021.697130584536,
+    "tokens": [
+      {
+        "_address": "0x86ed939b500e121c0c5f493f399084db596dad20",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xfa6e8e97ececdc36302eca534f63439b1e79487b",
+    "cumulativeVolumeUSD": 12758.06987,
+    "tokens": [
+      {
+        "_address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x84b2f2d7e1577d6eebbb2239157cd2d644959ba3",
+    "cumulativeVolumeUSD": 12464.05518522462,
+    "tokens": [
+      {
+        "_address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x2d59ee493f986a92badeca745b39e2838c5eadf5",
+    "cumulativeVolumeUSD": 10745.288531354237,
+    "tokens": [
+      {
+        "_address": "0x0f2d719407fdbeff09d87557abb7232601fd9f29",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xf310a97fe408e1b1a0549a85c64018d4617245d3",
+    "cumulativeVolumeUSD": 8142.7724186205805,
+    "tokens": [
+      {
+        "_address": "0x32c6f1c1731ff8f98ee2ede8954f696446307846",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x7c0a81c0cd5c976f88fa102063ec12c388da9408",
+    "cumulativeVolumeUSD": 7746.546626336452,
+    "tokens": [
+      {
+        "_address": "0x5325d78529ef74105004bd4114cc569303ce8b5f",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x4bd3cf2b49ebaf57c95cc1ad8ddd83baa1126835",
+    "cumulativeVolumeUSD": 6971.609824059297,
+    "tokens": [
+      {
+        "_address": "0xb954562066c71b3e6e7b2ac330b03c74c0dcd5ae",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x801ccfae9d2c77893b545e8d0e4637c055cd26cb",
+    "cumulativeVolumeUSD": 6777.904799999999,
+    "tokens": [
+      {
+        "_address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x1db910213fee78a23a567ac17b19e7fcf02a5963",
+    "cumulativeVolumeUSD": 6284.335839886463,
+    "tokens": [
+      {
+        "_address": "0x7b7ab260063db8681b7249a40bed363b436057c1",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xc000843880bc3ba056506befaa00ad1a7b996d02",
+    "cumulativeVolumeUSD": 4534.821243640625,
+    "tokens": [
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xefd7c7755f79382326be413d234a8b70610471dd",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x4c45a8fb807881214f38c6f091ecf64800f0d2e7",
+    "cumulativeVolumeUSD": 4175.352185143381,
+    "tokens": [
+      {
+        "_address": "0x44709a920fccf795fbc57baa433cc3dd53c44dbe",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x763d3b7296e7c9718ad5b058ac2692a19e5b3638",
+    "cumulativeVolumeUSD": 3225.854622,
+    "tokens": [
+      {
+        "_address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x72c2178e082fedb13246877b5aa42ebce1b72218",
+    "cumulativeVolumeUSD": 3215.9026591620413,
+    "tokens": [
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x54228fc560b887b401dd6c3eca4f92eaad9e7a3f",
+    "cumulativeVolumeUSD": 3089.045934,
+    "tokens": [
+      {
+        "_address": "0xd4419c2d3daa986dc30444fa333a846be44fd1eb",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xd8359e2c059080ed7185b6ac19f28f66a8a2bc95",
+    "cumulativeVolumeUSD": 2784.943060671057,
+    "tokens": [
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xd2877702675e6ceb975b4a1dff9fb7baf4c91ea9",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x7ce04536279a74951c1a0148b5488d8a027a9bf8",
+    "cumulativeVolumeUSD": 2487.7246274172285,
+    "tokens": [
+      {
+        "_address": "0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x73ae4f42ca848f8da145c0885ed3668e1e1c5876",
+    "cumulativeVolumeUSD": 2042.4738376370185,
+    "tokens": [
+      {
+        "_address": "0xabea7663c472648d674bd3403d94c858dfeef728",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x38f79dff85cfee1763a72f13986dec32cc65ddaf",
+    "cumulativeVolumeUSD": 1973.469598877543,
+    "tokens": [
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xccc8cb5229b0ac8069c51fd58367fd1e622afd97",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xd60a872163a6a9c7b157da621768c8c065778432",
+    "cumulativeVolumeUSD": 1746.3401076693785,
+    "tokens": [
+      {
+        "_address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x84367a237f7ec3c79b1dca9c9843a728b4426b1a",
+    "cumulativeVolumeUSD": 1726.9141793933652,
+    "tokens": [
+      {
+        "_address": "0x4cce605ed955295432958d8951d0b176c10720d5",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x382234941986d74987511e40b2eabc5cbcf60bdd",
+    "cumulativeVolumeUSD": 1211.8014344161793,
+    "tokens": [
+      {
+        "_address": "0x6a8c648c7635b50836285fd02ba5482d9526dec0",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x769db46f39c42ee7ad5f71f4167c47edd281e767",
+    "cumulativeVolumeUSD": 1203.6850842093331,
+    "tokens": [
+      {
+        "_address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x35644fb61afbc458bf92b15add6abc1996be5014",
+    "cumulativeVolumeUSD": 1187.036678,
+    "tokens": [
+      {
+        "_address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x8da41d45c183e63d5eb2ecacd30ed6dd4a640cc2",
+    "cumulativeVolumeUSD": 992.8256685481485,
+    "tokens": [
+      {
+        "_address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xf954d40c0c18e707c69318a9e3bd6230d4d56a11",
+    "cumulativeVolumeUSD": 732.407114951948,
+    "tokens": [
+      {
+        "_address": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x1db3b2fd4f0f9f1d55a1cc5d33f5736d39ffb629",
+    "cumulativeVolumeUSD": 717.967794,
+    "tokens": [
+      {
+        "_address": "0x4cce605ed955295432958d8951d0b176c10720d5",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x09f1ff2ad7a61b1b7e0192b6fc4a98b38aa92556",
+    "cumulativeVolumeUSD": 705.9862165675751,
+    "tokens": [
+      {
+        "_address": "0x3638c9e50437f00ae53a649697f288ba68888cc1",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xb1b11f2c8aa7da893cab7b6a981e5c9fc6a3da3e",
+    "cumulativeVolumeUSD": 600,
+    "tokens": [
+      {
+        "_address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xe28e3e0331d09627f0ecc7afc09326af2fc8cdb5",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xafd99f6983546bdb450c1ebbb5dd403551008edf",
+    "cumulativeVolumeUSD": 573.2737023032196,
+    "tokens": [
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xf1376bcef0f78459c0ed0ba5ddce976f1ddf51f4",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xfecf72dd7fa12c7caf21af9e8da2e204ec9acb00",
+    "cumulativeVolumeUSD": 532.6683187406893,
+    "tokens": [
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x4c137c88d6d5f7a32e803373a73d811167c1e7e3",
+    "cumulativeVolumeUSD": 531.6678713800795,
+    "tokens": [
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xcb84d72e61e383767c4dfeb2d8ff7f4fb89abc6e",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x8a587ee3d7e16c772f3f39c18934dcbe096f3ed8",
+    "cumulativeVolumeUSD": 419.1706047803074,
+    "tokens": [
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xe4b48b6bbafca1f82ad2976e30a81c800c249aa3",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xd6b39a8080906eaa65408038b07d87f49e704a86",
+    "cumulativeVolumeUSD": 390.07872608656714,
+    "tokens": [
+      {
+        "_address": "0x83b4f3450f517fecbaf93c10dad3dbecfaced2a4",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x31ac258b911af9a0d2669ebdfc4e39d92e96b772",
+    "cumulativeVolumeUSD": 376.069028,
+    "tokens": [
+      {
+        "_address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x2068b8e693bd4081588ea28c06879fb9f908e0a7",
+    "cumulativeVolumeUSD": 369.0047205096053,
+    "tokens": [
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xdbdb4d16eda451d0503b854cf79d55697f90c8df",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x967ccf761ccdf9b8c4f0e69be976843fac2ffa78",
+    "cumulativeVolumeUSD": 328.40403056783623,
+    "tokens": [
+      {
+        "_address": "0xb60e258b85fc6ac415fa3a452ddefa2b78e541c1",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xf21c1a5fe2be99a803be33489f0d4f6e3dec7941",
+    "cumulativeVolumeUSD": 302.78151458851795,
+    "tokens": [
+      {
+        "_address": "0x92d6c1e31e14520e676a687f0a93788b716beff5",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x495e0c5a4107544937d0f1996ed84ab4d83272e7",
+    "cumulativeVolumeUSD": 235.03177268943276,
+    "tokens": [
+      {
+        "_address": "0x39fbbabf11738317a448031930706cd3e612e1b9",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xa6de49f4f2f63614fd4e3574a517b0133c529668",
+    "cumulativeVolumeUSD": 217.665214,
+    "tokens": [
+      {
+        "_address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xaab1b6aeaf6c613ba19be8f7bfec11062efa0fa1",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x7de4942a734f30a1f08510238e05337f34a155b2",
+    "cumulativeVolumeUSD": 202.82621267266015,
+    "tokens": [
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x682dc5b13f935af9791165c29baa5a804b760547",
+    "cumulativeVolumeUSD": 199.50039,
+    "tokens": [
+      {
+        "_address": "0x06aac5e9c582df5fd70275ad4fea6805206cceab",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x208d2b856bba35fb5fa3a65731b9495927652f50",
+    "cumulativeVolumeUSD": 181.97388,
+    "tokens": [
+      {
+        "_address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xd4419c2d3daa986dc30444fa333a846be44fd1eb",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xd3d74df77bf630b1430aec114f2700c51e6f9256",
+    "cumulativeVolumeUSD": 132,
+    "tokens": [
+      {
+        "_address": "0x1af76c1abac8f06868f4f5caa39d7d3cf7bf7606",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x6d6b0c1d79eb72ff28b8b5e3ecd35bbe2cbe7d78",
+    "cumulativeVolumeUSD": 88.20515168286217,
+    "tokens": [
+      {
+        "_address": "0x3b484b82567a09e2588a13d54d032153f0c0aee0",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xc5e0a6a1fe4b128c342702ca96346f8846493924",
+    "cumulativeVolumeUSD": 78.60427430882942,
+    "tokens": [
+      {
+        "_address": "0x8c223a82e07fecb49d602150d7c2b3a4c9630310",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x2fd4bd861186df263c0b9bfa0ce9266de88f3203",
+    "cumulativeVolumeUSD": 54.174899010467904,
+    "tokens": [
+      {
+        "_address": "0x55296f69f40ea6d20e478533c15a6b08b654e758",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xf1cac03319873169012621ef545fa33090217516",
+    "cumulativeVolumeUSD": 53.99999999999999,
+    "tokens": [
+      {
+        "_address": "0x5a1de1f27beb27c9fe4e0ecbf2fe4e51fff3d8d6",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x354ecf8efb2782cdf4f67998351a9163866f8a58",
+    "cumulativeVolumeUSD": 41.14603448618852,
+    "tokens": [
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xd4419c2d3daa986dc30444fa333a846be44fd1eb",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x102a620d51f803e04b3bca2ca9ad1379eed45a76",
+    "cumulativeVolumeUSD": 40.68442192713904,
+    "tokens": [
+      {
+        "_address": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x5b02adac06a5d8d688c63e7b7b54965ff9247fd3",
+    "cumulativeVolumeUSD": 39.15045162257327,
+    "tokens": [
+      {
+        "_address": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x31c079bc3c62d3bacbbec1d14601a29db0a10d68",
+    "cumulativeVolumeUSD": 33.274386,
+    "tokens": [
+      {
+        "_address": "0xd624e5c89466a15812c1d45ce1533be1f16c1702",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x8fa8eb8a257967e6105e2db4fec6474a62a2922d",
+    "cumulativeVolumeUSD": 29.543057557341804,
+    "tokens": [
+      {
+        "_address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x74ca6545b0fee4046e5d4093eb138fe79d639e31",
+    "cumulativeVolumeUSD": 18.34623925725565,
+    "tokens": [
+      {
+        "_address": "0x565d3902d6a5a2d5ce28ff427423e88933334dd2",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x6882a7ae00b334935610e42daa1fc3f039dbde7d",
+    "cumulativeVolumeUSD": 18.2388,
+    "tokens": [
+      {
+        "_address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xd4419c2d3daa986dc30444fa333a846be44fd1eb",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x1b9fbe3e80911505a91cf5a087d272242ec4b7b2",
+    "cumulativeVolumeUSD": 17.603379562962466,
+    "tokens": [
+      {
+        "_address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x98420b1afdb2353fe5c77f20d8f541b4dbd18aec",
+    "cumulativeVolumeUSD": 7.704857761675566,
+    "tokens": [
+      {
+        "_address": "0x9bf1d7d63dd7a4ce167cf4866388226eeefa702e",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x1ccf98da76aec9b2f43f5803a6b6b66d342e3586",
+    "cumulativeVolumeUSD": 5.999999999884104,
+    "tokens": [
+      {
+        "_address": "0x78b1ceb872fefc6440fbdfa643f9bc533db41457",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x9b6f2b0bdd2c17a9ca01d8a8901ab2254ed22906",
+    "cumulativeVolumeUSD": 4.649716376517846,
+    "tokens": [
+      {
+        "_address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xbb6b93305cfeb362a680a283b0ace4560d46046f",
+    "cumulativeVolumeUSD": 4.241235163215216,
+    "tokens": [
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xf7a0383750fef5abace57cc4c9ff98e3790202b3",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x6dd212d0d87949faffa3a189d290c8f51b0dd295",
+    "cumulativeVolumeUSD": 3.042358196367792,
+    "tokens": [
+      {
+        "_address": "0x4123a133ae3c521fd134d7b13a2dec35b56c2463",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x5ea783525631f0c22f07d5a9791921c59fd98f00",
+    "cumulativeVolumeUSD": 2.720979874950252,
+    "tokens": [
+      {
+        "_address": "0x905ff01bf05bbd2de91b3f09cc86187ea07edec3",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x6d0612c2c70cd084afebfdc196c49b02c172aba1",
+    "cumulativeVolumeUSD": 2.4678061523487718,
+    "tokens": [
+      {
+        "_address": "0x9b5161a41b58498eb9c5febf89d60714089d2253",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xcd5cca3ab812f1de98a2a62d45b78a2db8ca827d",
+    "cumulativeVolumeUSD": 2,
+    "tokens": [
+      {
+        "_address": "0xda92ca878fd7072250eb595a1f9ffc6bf895a1f6",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x3288c4e3445965c8da638fb81184a5f1251e7834",
+    "cumulativeVolumeUSD": 1.486224,
+    "tokens": [
+      {
+        "_address": "0x905f06debcd355809c0eabe2abc1332a5c7159cd",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x5ab952d45d33ba32dbaa3da85b0738ac9df24626",
+    "cumulativeVolumeUSD": 1.237835384452416,
+    "tokens": [
+      {
+        "_address": "0x3005003bda885dee7c74182e5fe336e9e3df87bb",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xca48b3b3835f310eebd95a06f37e44de7945b7fa",
+    "cumulativeVolumeUSD": 1.18570642633791,
+    "tokens": [
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc62def1701309bb76e6b39b6ab8b5fac910a3c87",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x0f691ecdcb8b7725c8c921ef936ff8f8f1920391",
+    "cumulativeVolumeUSD": 0.319618,
+    "tokens": [
+      {
+        "_address": "0x2960d71855a521c8414d29a27218efdb67c34180",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xda6aa607a2a51f25bcbdf98c0923be28d96c42d3",
+    "cumulativeVolumeUSD": 0.19994,
+    "tokens": [
+      {
+        "_address": "0x50327c6c5a14dcade707abad2e27eb517df87ab5",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x409de25fe2e785747d0ead2d48c8229f4d15645d",
+    "cumulativeVolumeUSD": 0.030000000000036,
+    "tokens": [
+      {
+        "_address": "0x44348cd743c78d5d2cb0d3e12fa8e9ad20dacdd5",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x1182283152c6b39b825c40671aa3e3b848afe15e",
+    "cumulativeVolumeUSD": 0.001681643425812,
+    "tokens": [
+      {
+        "_address": "0x427a03fb96d9a94a6727fbcfbba143444090dd64",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x31d79a1350551c395bed2ab121401128d5d43005",
+    "cumulativeVolumeUSD": 0.00018377106598199997,
+    "tokens": [
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xfa3e941d1f6b7b10ed84a0c211bfa8aee907965e",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x22f25e528d734ea80b683abd15716c236bf397f2",
+    "cumulativeVolumeUSD": 0.000122,
+    "tokens": [
+      {
+        "_address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x45826b19d91faab7c509bbdcca9d1bac9383d46d",
+    "cumulativeVolumeUSD": 0.000067958268348,
+    "tokens": [
+      {
+        "_address": "0x80a7e048f37a50500351c204cb407766fa3bae7f",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xf5137594b0666ef240edef9897e26a6cc438c632",
+    "cumulativeVolumeUSD": 0.000054541899324,
+    "tokens": [
+      {
+        "_address": "0x1fe24f25b1cf609b9c4e7e12d802e3640dfa5e43",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x92903c2b250f940ad164770316ee74ffdd5ce5f9",
+    "cumulativeVolumeUSD": 0.000023833835394,
+    "tokens": [
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xfa3e941d1f6b7b10ed84a0c211bfa8aee907965e",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x579c48da471d829f34339b97597114f92f302603",
+    "cumulativeVolumeUSD": 0.000016,
+    "tokens": [
+      {
+        "_address": "0x1fe24f25b1cf609b9c4e7e12d802e3640dfa5e43",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x622933c7c880392fac548d7bb994ec826043adc4",
+    "cumulativeVolumeUSD": 0.000006,
+    "tokens": [
+      {
+        "_address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xcaef937ac9a63668460efb0ea92b109bba2fc1ed",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x46e2efc8468f26822a6924ec9c2b7182f3671dae",
+    "cumulativeVolumeUSD": 0.000004,
+    "tokens": [
+      {
+        "_address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xb50721bcf8d664c30412cfbc6cf7a15145234ad1",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xb071335c2f64aaeba0fe4ca6989228b059e20e3b",
+    "cumulativeVolumeUSD": 0.000004,
+    "tokens": [
+      {
+        "_address": "0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x73e36ac355bcffb32788bfb3f806165256083685",
+    "cumulativeVolumeUSD": 0.000004,
+    "tokens": [
+      {
+        "_address": "0xba386a4ca26b85fd057ab1ef86e3dc7bdeb5ce70",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x1a29903c3909cb72eff058e8ec2632bc6c9c3f55",
+    "cumulativeVolumeUSD": 0.000002,
+    "tokens": [
+      {
+        "_address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xa8bfd0630cbc816d05a7fccb5d17ae592a4dca6b",
+    "cumulativeVolumeUSD": 9.95741214e-7,
+    "tokens": [
+      {
+        "_address": "0x83b4f3450f517fecbaf93c10dad3dbecfaced2a4",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x2afac7a13f9b39aa7bbc910c3ff77f4e7ecb7d21",
+    "cumulativeVolumeUSD": 8.46e-13,
+    "tokens": [
+      {
+        "_address": "0x7f3141c4d6b047fb930991b450f1ed996a51cb26",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x31e06ab0b66fe73ccc0a9efda332a6f096180b75",
+    "cumulativeVolumeUSD": 5.579999999999999e-13,
+    "tokens": [
+      {
+        "_address": "0x1fe24f25b1cf609b9c4e7e12d802e3640dfa5e43",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xf1418c077c63902dc152c8f551a4bf808fc99e22",
+    "cumulativeVolumeUSD": 2.16e-13,
+    "tokens": [
+      {
+        "_address": "0x78b039921e84e726eb72e7b1212bb35504c645ca",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xfdfff5fba010d08138d12279bf2578a3c14df048",
+    "cumulativeVolumeUSD": 1.26e-13,
+    "tokens": [
+      {
+        "_address": "0x9d409a0a012cfba9b15f6d4b36ac57a46966ab9a",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xd66675149c8348da58595195a04fa70b3661cc7c",
+    "cumulativeVolumeUSD": 1.02e-13,
+    "tokens": [
+      {
+        "_address": "0x6e22a97606a8dfefab0ff33a39af2796168a978b",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x4ab70414086bdd3377c743b07dad88c96e3f1de7",
+    "cumulativeVolumeUSD": 7.2e-14,
+    "tokens": [
+      {
+        "_address": "0x594daad7d77592a2b97b725a7ad59d7e188b5bfa",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x4036a58e36822919a24ca1c8705634b09cd8637b",
+    "cumulativeVolumeUSD": 6.000000000000001e-14,
+    "tokens": [
+      {
+        "_address": "0x2a2550e0a75acec6d811ae3930732f7f3ad67588",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xc6c57b16412e9a4e980d3c30f41b4f0dfd8845ed",
+    "cumulativeVolumeUSD": 5.4e-14,
+    "tokens": [
+      {
+        "_address": "0x6f3277ad0782a7da3eb676b85a8346a100bf9c1c",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x9a635a9f7bb3bd79dd7f862b3b1ff6411d41b5e3",
+    "cumulativeVolumeUSD": 5.4e-14,
+    "tokens": [
+      {
+        "_address": "0x18019307d669890c96c1fea1ed1302d9ac191e37",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xbcf7195562ce684562c0cea5f2d3a720779e6ec1",
+    "cumulativeVolumeUSD": 4.8000000000000004e-14,
+    "tokens": [
+      {
+        "_address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x23f12937456fb34688d0f6aeb8c78429f60873a7",
+    "cumulativeVolumeUSD": 4.8000000000000004e-14,
+    "tokens": [
+      {
+        "_address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xa5f43b0ebaefbed5b1f1bfc809af15254ea1e9c4",
+    "cumulativeVolumeUSD": 4.2e-14,
+    "tokens": [
+      {
+        "_address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xeb589ae4a24c90ebcc7437084b022d347f6dbf7b",
+    "cumulativeVolumeUSD": 3.6e-14,
+    "tokens": [
+      {
+        "_address": "0xb62e45c3df611dce236a6ddc7a493d79f9dfadef",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xa493bbff30b1bf3d52653f92c9b131208253954b",
+    "cumulativeVolumeUSD": 3.6e-14,
+    "tokens": [
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xce391315b414d4c7555956120461d21808a69f3a",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x5d832c8fb8726f435f9f3c9b6a17bdfc4f848afe",
+    "cumulativeVolumeUSD": 3.6e-14,
+    "tokens": [
+      {
+        "_address": "0x9f671e369ce010a9e4cb0a53ba575ff0a7cd6320",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x5f11853100774087030845d4c47a9d42b429ed83",
+    "cumulativeVolumeUSD": 2.4000000000000002e-14,
+    "tokens": [
+      {
+        "_address": "0x5b7533812759b45c2b44c19e320ba2cd2681b542",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xb3ccf99930023e800b2d27fe3ff15f1db01d51ce",
+    "cumulativeVolumeUSD": 2.4000000000000002e-14,
+    "tokens": [
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xd291e7a03283640fdc51b121ac401383a46cc623",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xe6471e81b794dc537b60a418a7ce62990954bb26",
+    "cumulativeVolumeUSD": 2.4000000000000002e-14,
+    "tokens": [
+      {
+        "_address": "0x9fa76c696e12f0faca9c32d6c0b433bc4bdf04be",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x19efbbc5687a10a31c475747739662ca6b11987f",
+    "cumulativeVolumeUSD": 2.4000000000000002e-14,
+    "tokens": [
+      {
+        "_address": "0x569d0e52c3dbe95983bcc2434cb9f69d905be919",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xbdb29198b25ac30d68b50ee3ba2c8c07293eb416",
+    "cumulativeVolumeUSD": 1.8e-14,
+    "tokens": [
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xd075e95423c5c4ba1e122cae0f4cdfa19b82881b",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x9fa0d7b67175f6b17801dfe1baad8bddd59931b8",
+    "cumulativeVolumeUSD": 1.2000000000000001e-14,
+    "tokens": [
+      {
+        "_address": "0x9d80d26e1db4dac67a7689ea8d88ae3f871383e3",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x5a7eed1100d494d902e86bc700025e45a8c18b4c",
+    "cumulativeVolumeUSD": 1.2000000000000001e-14,
+    "tokens": [
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xef8e456967122db4c3c160314bde8d2602ad6199",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x4cf1a4912181cf437b4bc17484ff0ac2fab90bf3",
+    "cumulativeVolumeUSD": 1.2000000000000001e-14,
+    "tokens": [
+      {
+        "_address": "0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x319c7bc8235177f15622d6e41c92b1dd0989e9f9",
+    "cumulativeVolumeUSD": 1.2000000000000001e-14,
+    "tokens": [
+      {
+        "_address": "0x0f2d719407fdbeff09d87557abb7232601fd9f29",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x4e9b68ca8c0e963189133577f047dca610469907",
+    "cumulativeVolumeUSD": 1.2000000000000001e-14,
+    "tokens": [
+      {
+        "_address": "0x905ff01bf05bbd2de91b3f09cc86187ea07edec3",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xbbea631e39b14eeafcc8a2b7081b4c76b204dc2f",
+    "cumulativeVolumeUSD": 1.2000000000000001e-14,
+    "tokens": [
+      {
+        "_address": "0x5b4c95f76b8bd3ada1d8baa717cf658e14cf0dbf",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x0a244213b4a49af0720c4aebba5db65c9d7ec067",
+    "cumulativeVolumeUSD": 1.2000000000000001e-14,
+    "tokens": [
+      {
+        "_address": "0xaaba5e2bc02fa7875673ab60c8d38f09237ef430",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xa090a1657dbf752fca8638624f26e9284e33da3a",
+    "cumulativeVolumeUSD": 1.2000000000000001e-14,
+    "tokens": [
+      {
+        "_address": "0x8ed2fc62d6850eaadcb717465752dab591286839",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x135796322ed29933d71baa51e53b7a4bcfb5e4e6",
+    "cumulativeVolumeUSD": 1.2000000000000001e-14,
+    "tokens": [
+      {
+        "_address": "0x6193123674b0585392294a610dd940fe08c29dfd",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x9b75a34a34971849208490da2e9878de9b74b940",
+    "cumulativeVolumeUSD": 1.2000000000000001e-14,
+    "tokens": [
+      {
+        "_address": "0x558a64e0652c3a4b7fa1ff9a589425bf42c9179d",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x5718def5e263b5ae26f25d1bdd09ef2cdcda3dfb",
+    "cumulativeVolumeUSD": 1.2000000000000001e-14,
+    "tokens": [
+      {
+        "_address": "0x112b08621e27e10773ec95d250604a041f36c582",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xc9389ebe8344ccd944c19b9c05fb58d74b6ce25b",
+    "cumulativeVolumeUSD": 1.2000000000000001e-14,
+    "tokens": [
+      {
+        "_address": "0x8a7b7b9b2f7d0c63f66171721339705a6188a7d5",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xea64bbf5572ca383d390e9e74bab999edc7179e1",
+    "cumulativeVolumeUSD": 1.2000000000000001e-14,
+    "tokens": [
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xd075e95423c5c4ba1e122cae0f4cdfa19b82881b",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x63c709643a6bccfb903ff1bc59d9df3529237d9b",
+    "cumulativeVolumeUSD": 1.2000000000000001e-14,
+    "tokens": [
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xd075e95423c5c4ba1e122cae0f4cdfa19b82881b",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x34f832705d7e573117ee5577a4ee595272f2a9fb",
+    "cumulativeVolumeUSD": 1.2000000000000001e-14,
+    "tokens": [
+      {
+        "_address": "0x630d98424efe0ea27fb1b3ab7741907dffeaad78",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x8799e37666ff9977239dd86481136192b15638ac",
+    "cumulativeVolumeUSD": 1.2000000000000001e-14,
+    "tokens": [
+      {
+        "_address": "0x4c6a59d75c3723924a91fc0d8529e5f2785f920b",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x1874faaf626923329340b165d50ca3be5448eeea",
+    "cumulativeVolumeUSD": 1.2000000000000001e-14,
+    "tokens": [
+      {
+        "_address": "0x6488861b401f427d13b6619c77c297366bcf6386",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xe93e4b6dc2d612a290b8c4a14a16fe67a03d9db9",
+    "cumulativeVolumeUSD": 6.0000000000000005e-15,
+    "tokens": [
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xe803178b48a0e560c2b19f3b3d4e504f79d229ce",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xde42633b2703b33132f0299474490be2b00165a4",
+    "cumulativeVolumeUSD": 6.0000000000000005e-15,
+    "tokens": [
+      {
+        "_address": "0xb6136a7f650becbb06abe2b796f8d967bedd86a6",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x91729e174956f7d04ad7d7a02460ca698457c530",
+    "cumulativeVolumeUSD": 6.0000000000000005e-15,
+    "tokens": [
+      {
+        "_address": "0xa1d6df714f91debf4e0802a542e13067f31b8262",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xef2bc30d60912bfac7018073d1e08b85e0ce4c4f",
+    "cumulativeVolumeUSD": 6.0000000000000005e-15,
+    "tokens": [
+      {
+        "_address": "0xa1d6df714f91debf4e0802a542e13067f31b8262",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x9d38d6f6c85c5af853d4b5a7da9a59ff580e0435",
+    "cumulativeVolumeUSD": 6.0000000000000005e-15,
+    "tokens": [
+      {
+        "_address": "0x5caf454ba92e6f2c929df14667ee360ed9fd5b26",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x54e218dcaad0bbf60963ed73268c18a67899de15",
+    "cumulativeVolumeUSD": 6.0000000000000005e-15,
+    "tokens": [
+      {
+        "_address": "0x0445174b6fa65df016ac975967148d257598ee9f",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x5398c0f218f79d846b4824c92c33739fec0db73c",
+    "cumulativeVolumeUSD": 6.0000000000000005e-15,
+    "tokens": [
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xe80c0cd204d654cebe8dd64a4857cab6be8345a3",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xd5a7923f2e1f7a71afa3e849862abf7d79d686ae",
+    "cumulativeVolumeUSD": 6.0000000000000005e-15,
+    "tokens": [
+      {
+        "_address": "0x06f3c323f0238c72bf35011071f2b5b7f43a054c",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xdbf07f48cbc083b4cab2e3a34526ca44a5dd61e9",
+    "cumulativeVolumeUSD": 6.0000000000000005e-15,
+    "tokens": [
+      {
+        "_address": "0x92280039c27bbfca9b7cda45c14cdbe01bf8b4b0",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xb59452ff65faff3fd7b15992aaa9253ab6774e5e",
+    "cumulativeVolumeUSD": 6.0000000000000005e-15,
+    "tokens": [
+      {
+        "_address": "0x586a7cfe21e55ec0e24f0bfb118f77fe4ca87bab",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x2b212e204359c2f49cdd6c754e293d88edc4584f",
+    "cumulativeVolumeUSD": 6.0000000000000005e-15,
+    "tokens": [
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xe90ab0c4d0c3d971513c7852e5f67ec413e747c4",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xba780d76b171f14b7e5ff6994a41e1777c2dee35",
+    "cumulativeVolumeUSD": 6.0000000000000005e-15,
+    "tokens": [
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xd8912c10681d8b21fd3742244f44658dba12264e",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x3956a1164cb16d0c877c0886e9b7de3b12a1cdbb",
+    "cumulativeVolumeUSD": 6.0000000000000005e-15,
+    "tokens": [
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xf334dfc61ec055647543e5e35577c70789278079",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x4c7814d5bd8c8184ad9d5e1688781f7fb5498acb",
+    "cumulativeVolumeUSD": 6.0000000000000005e-15,
+    "tokens": [
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xff20817765cb7f73d4bde2e66e067e58d11095c2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x14d2d1912d52e13ea3ae4a9c18885f5222c6e31c",
+    "cumulativeVolumeUSD": 6.0000000000000005e-15,
+    "tokens": [
+      {
+        "_address": "0x3c37577f1de12046aea6975862559a50d8f50158",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x85a4f685c4b51bc8ef36bd11eea0c93c0cba2205",
+    "cumulativeVolumeUSD": 6.0000000000000005e-15,
+    "tokens": [
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xf19308f923582a6f7c465e5ce7a9dc1bec6665b1",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x38b33ca4332b70a92fe2aeffc6e25eeff6846ab6",
+    "cumulativeVolumeUSD": 6.0000000000000005e-15,
+    "tokens": [
+      {
+        "_address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xab80ac7e4d534f9e56e655b7737d591b55a364b4",
+    "cumulativeVolumeUSD": 6.0000000000000005e-15,
+    "tokens": [
+      {
+        "_address": "0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x979a5795d0f4d3da7df870ee013696b22e744cd9",
+    "cumulativeVolumeUSD": 6.0000000000000005e-15,
+    "tokens": [
+      {
+        "_address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xbc703c9c78b36d7504f565cfc9344bfcf996bb07",
+    "cumulativeVolumeUSD": 6.0000000000000005e-15,
+    "tokens": [
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xfc0f529c3545157665a1ad1044c49f36385e064d",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xfad77f191cefd9b8679c16e567dc98b6c11de9fc",
+    "cumulativeVolumeUSD": 6.0000000000000005e-15,
+    "tokens": [
+      {
+        "_address": "0x8f006d1e1d9dc6c98996f50a4c810f17a47fbf19",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x9130f1c937bb57da4e0e5ad7f6081d40e6a29455",
+    "cumulativeVolumeUSD": 0,
+    "tokens": [
+      {
+        "_address": "0x97ac4a2439a47c07ad535bb1188c989dae755341",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xc517d9286b5d69235182c49650cc96892fda4c19",
+    "cumulativeVolumeUSD": 0,
+    "tokens": [
+      {
+        "_address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xb30ac0123602fe575a5a18a1f59a00e3388f5aad",
+    "cumulativeVolumeUSD": 0,
+    "tokens": [
+      {
+        "_address": "0x27d0852cfcf36d29b02644b778481b02ebfe90f0",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0x9e10f61749c4952c320412a6b26901605ff6da1d",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xf18d3a3311907e7da3498694104eab1788bdc0dd",
+    "cumulativeVolumeUSD": 0,
+    "tokens": [
+      {
+        "_address": "0x62b9c7356a2dc64a1969e19c23e4f579f9810aa7",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xcb0590b77f9b3a8891f4bc429168c0696c9ef7e7",
+    "cumulativeVolumeUSD": 0,
+    "tokens": [
+      {
+        "_address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xfb520f271da8bd8f3db6f61fdef3f900b462defe",
+    "cumulativeVolumeUSD": 0,
+    "tokens": [
+      {
+        "_address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xeea3311250fe4c3268f8e684f7c87a82ff183ec1",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x828706d679065ae94668e659905cf4de368e1cf3",
+    "cumulativeVolumeUSD": 0,
+    "tokens": [
+      {
+        "_address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0x46f6e9bbcce8638b20ebbc83d33a2b5bfa9b7894",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xf4ed7b619ac2accad5933961b05e668b42703178",
+    "cumulativeVolumeUSD": 0,
+    "tokens": [
+      {
+        "_address": "0x557b933a7c2c45672b610f8954a3deb39a51a8ca",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x093671203ad543e65441c4ded30247f27948eeb3",
+    "cumulativeVolumeUSD": 0,
+    "tokens": [
+      {
+        "_address": "0x5de8ab7e27f6e7a1fff3e5b337584aa43961beef",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xd26114cd6ee289accf82350c8d8487fedb8a0c07",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x6655207e37154f81e67b4285ce7036a67af823cc",
+    "cumulativeVolumeUSD": 0,
+    "tokens": [
+      {
+        "_address": "0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xaa6c7d24d03769370e1c31f7c4edf3ebe10b7cf7",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x5f4e928dd65de7731f1e3d65aa9ca7dd2b2332af",
+    "cumulativeVolumeUSD": 0,
+    "tokens": [
+      {
+        "_address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0x7f8bcf82fa86d50f7794981dd39f8ab7b0561fed",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xc26645e300811f2e13f1546b378e48e1b8bf886b",
+    "cumulativeVolumeUSD": 0,
+    "tokens": [
+      {
+        "_address": "0x7bb04e6af8a40e2d260720c360041b6779c9afe8",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xfcaee25dd24c129a9069fcd2bedc7cd05798c47e",
+    "cumulativeVolumeUSD": 0,
+    "tokens": [
+      {
+        "_address": "0x8bda622a10fbb1e4a15b37507f65fc5b5755ceb8",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x01b94ac1abf25c132bced6918513f1822d0dc52f",
+    "cumulativeVolumeUSD": 0,
+    "tokens": [
+      {
+        "_address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xd4419c2d3daa986dc30444fa333a846be44fd1eb",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0xba6801eac90277e9d2a434cc8f6dd031edf419b9",
+    "cumulativeVolumeUSD": 0,
+    "tokens": [
+      {
+        "_address": "0xa882606494d86804b5514e07e6bd2d6a6ee6d68a",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xf1ce2fbe0ceb2400b74c27c26dd9eb28fa97c7c4",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  },
+  {
+    "dexId": "uni_v3",
+    "poolId": "0x0f0db2d2569e9c34497bcd98a0d84c34a6076531",
+    "cumulativeVolumeUSD": 0,
+    "tokens": [
+      {
+        "_address": "0x582d872a1b094fc48f5de31d3b73f2d9be47def1",
+        "decimals": 18,
+        "name": "a"
+      },
+      {
+        "_address": "0xa882606494d86804b5514e07e6bd2d6a6ee6d68a",
+        "decimals": 18,
+        "name": "b"
+      }
+    ]
+  }
+]

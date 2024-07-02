@@ -1,0 +1,932 @@
+[
+    {
+        "dexId": "CURVE",
+        "poolId": "0xbebc44782c7db0a1a60cb6fe97d0b483032ff1c7",
+        "cumulativeVolumeUSD": "176512329823440329319691971",
+        "tokens": [
+            {
+                "_address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                "decimals": "18",
+                "name": "DAI"
+            },
+            {
+                "_address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                "decimals": "6",
+                "name": "USDC"
+            },
+            {
+                "_address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+                "decimals": "6",
+                "name": "USDT"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0xdebf20617708857ebe4f679508e7b7863a8a8eee",
+        "cumulativeVolumeUSD": "13511012589335054510477243",
+        "tokens": [
+            {
+                "_address": "0x028171bca77440897b824ca71d1c56cac55b68a3",
+                "decimals": "18",
+                "name": "aDAI"
+            },
+            {
+                "_address": "0xbcca60bb61934080951369a648fb03df4f96263c",
+                "decimals": "6",
+                "name": "aUSDC"
+            },
+            {
+                "_address": "0x3ed3b47dd13ec9a98b44e6204a523e766b225811",
+                "decimals": "6",
+                "name": "aUSDT"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0xa96a65c051bf88b4095ee1f2451c2a9d43f53ae2",
+        "cumulativeVolumeUSD": "651763192978611390532",
+        "tokens": [
+            {
+                "_address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+                "decimals": 18,
+                "name": "ETH"
+            },
+            {
+                "_address": "0xe95a203b1a91a908f9b9ce46459d101078c2c3cb",
+                "decimals": "18",
+                "name": "ankrETH"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0x79a8c46dea5ada233abaffd40f3a0a2b1e5a4f27",
+        "cumulativeVolumeUSD": "4677971173870949606569827",
+        "tokens": [
+            {
+                "_address": "0xc2cb1040220768554cf699b0d863a3cd4324ce32",
+                "decimals": "18",
+                "name": "yDAI"
+            },
+            {
+                "_address": "0x26ea744e5b887e5205727f55dfbe8685e3b21951",
+                "decimals": "6",
+                "name": "yUSDC"
+            },
+            {
+                "_address": "0xe6354ed5bc4b393a5aad09f21c46e101e692d447",
+                "decimals": "6",
+                "name": "yUSDT"
+            },
+            {
+                "_address": "0x04bc0ab673d88ae9dbc9da2380cb6b79c4bca9ae",
+                "decimals": "18",
+                "name": "yBUSD"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0xa2b47e3d5c44877cca798226b7b8118f9bfb7a56",
+        "cumulativeVolumeUSD": "878970223844041479853960",
+        "tokens": [
+            {
+                "_address": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
+                "decimals": "8",
+                "name": "cDAI"
+            },
+            {
+                "_address": "0x39aa39c021dfbae8fac545936693ac917d5e7563",
+                "decimals": "8",
+                "name": "cUSDC"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0x0ce6a5ff5217e38315f87032cf90686c96627caa",
+        "cumulativeVolumeUSD": "1654971199343778920825588",
+        "tokens": [
+            {
+                "_address": "0xdb25f211ab05b1c97d595516f45794528a807ad8",
+                "decimals": "2",
+                "name": "EURS"
+            },
+            {
+                "_address": "0xd71ecff9342a5ced620049e616c5035f1db98620",
+                "decimals": "18",
+                "name": "sEUR"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0x4ca9b3063ec5866a4b82e437059d2c43d1be596f",
+        "cumulativeVolumeUSD": "8849430233367911549",
+        "tokens": [
+            {
+                "_address": "0x0316eb71485b0ab14103307bf65a021042c6d380",
+                "decimals": "18",
+                "name": "HBTC"
+            },
+            {
+                "_address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+                "decimals": "8",
+                "name": "WBTC"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0x2dded6da1bf5dbdf597c45fcfaa3194e53ecfeaf",
+        "cumulativeVolumeUSD": "2479058549396109391751245",
+        "tokens": [
+            {
+                "_address": "0x8e595470ed749b85c6f7669de83eae304c2ec68f",
+                "decimals": "8",
+                "name": "iDAI"
+            },
+            {
+                "_address": "0x76eb2fe28b36b3ee97f3adae0c69606eedb2a37c",
+                "decimals": "8",
+                "name": "iUSDC"
+            },
+            {
+                "_address": "0x48759f220ed983db51fa7a8c0d2aab8f3ce4166a",
+                "decimals": "8",
+                "name": "iUSDT"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0xf178c0b5bb7e7abf4e12a4838c7b7c5ba2c623c0",
+        "cumulativeVolumeUSD": "76307968824584722842146",
+        "tokens": [
+            {
+                "_address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+                "decimals": "18",
+                "name": "LINK"
+            },
+            {
+                "_address": "0xbbc455cb4f1b9e4bfc4b73970d360c8f032efee6",
+                "decimals": "18",
+                "name": "sLINK"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0x06364f10b501e868329afbc005b3492902d6c763",
+        "cumulativeVolumeUSD": "227149550048194365018426",
+        "tokens": [
+            {
+                "_address": "0x99d1fa417f94dcd62bfe781a1213c092a47041bc",
+                "decimals": "18",
+                "name": "ycDAI"
+            },
+            {
+                "_address": "0x9777d7e2b60bb01759d0e2f8be2095df444cb07e",
+                "decimals": "6",
+                "name": "ycUSDC"
+            },
+            {
+                "_address": "0x1be5d71f2da660bfdee8012ddc58d024448a0a59",
+                "decimals": "6",
+                "name": "ycUSDT"
+            },
+            {
+                "_address": "0x8e870d67f660d95d5be530380d0ec0bd388289e1",
+                "decimals": "18",
+                "name": "USDP"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0x93054188d876f558f4a66b2ef1d97d16edf0895b",
+        "cumulativeVolumeUSD": "104975673696243685742",
+        "tokens": [
+            {
+                "_address": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",
+                "decimals": "8",
+                "name": "renBTC"
+            },
+            {
+                "_address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+                "decimals": "8",
+                "name": "WBTC"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0xeb16ae0052ed37f479f7fe63849198df1765a733",
+        "cumulativeVolumeUSD": "294743099089951839051038",
+        "tokens": [
+            {
+                "_address": "0x028171bca77440897b824ca71d1c56cac55b68a3",
+                "decimals": "18",
+                "name": "aDAI"
+            },
+            {
+                "_address": "0x6c5024cd4f8a59110119c56f8933403a539555eb",
+                "decimals": "18",
+                "name": "aSUSD"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0x7fc77b5c7614e1533320ea6ddc2eb61fa00a9714",
+        "cumulativeVolumeUSD": "149366815107914766222",
+        "tokens": [
+            {
+                "_address": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",
+                "decimals": "8",
+                "name": "renBTC"
+            },
+            {
+                "_address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+                "decimals": "8",
+                "name": "WBTC"
+            },
+            {
+                "_address": "0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6",
+                "decimals": "18",
+                "name": "sBTC"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0xc5424b857f758e906013f3555dad202e4bdb4567",
+        "cumulativeVolumeUSD": "1205748261709519391192",
+        "tokens": [
+            {
+                "_address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+                "decimals": 18,
+                "name": "ETH"
+            },
+            {
+                "_address": "0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb",
+                "decimals": "18",
+                "name": "sETH"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0xdc24316b9ae028f1497c275eb9192a3ea0f67022",
+        "cumulativeVolumeUSD": "64226821384424863890781",
+        "tokens": [
+            {
+                "_address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+                "decimals": 18,
+                "name": "ETH"
+            },
+            {
+                "_address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+                "decimals": "18",
+                "name": "stETH"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0xa5407eae9ba41422680e2e00537571bcc53efbfd",
+        "cumulativeVolumeUSD": "13918002680011518166737297",
+        "tokens": [
+            {
+                "_address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                "decimals": "18",
+                "name": "DAI"
+            },
+            {
+                "_address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                "decimals": "6",
+                "name": "USDC"
+            },
+            {
+                "_address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+                "decimals": "6",
+                "name": "USDT"
+            },
+            {
+                "_address": "0x57ab1ec28d129707052df4df418d58a2d46d5f51",
+                "decimals": "18",
+                "name": "sUSD"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0x52ea46506b9cc5ef470c5bf89f17dc28bb35d85c",
+        "cumulativeVolumeUSD": "91556024963134920758249",
+        "tokens": [
+            {
+                "_address": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
+                "decimals": "8",
+                "name": "cDAI"
+            },
+            {
+                "_address": "0x39aa39c021dfbae8fac545936693ac917d5e7563",
+                "decimals": "8",
+                "name": "cUSDC"
+            },
+            {
+                "_address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+                "decimals": "6",
+                "name": "USDT"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0x45f783cce6b7ff23b2ab2d70e416cdb7d6055f51",
+        "cumulativeVolumeUSD": "7296631146194419245448784",
+        "tokens": [
+            {
+                "_address": "0x16de59092dae5ccf4a1e6439d611fd0653f0bd01",
+                "decimals": "18",
+                "name": "yDAI"
+            },
+            {
+                "_address": "0xd6ad7a6750a7593e092a9b218d66c0a814a3436e",
+                "decimals": "6",
+                "name": "yUSDC"
+            },
+            {
+                "_address": "0x83f798e925bcd4017eb265844fddabb448f1707d",
+                "decimals": "6",
+                "name": "yUSDT"
+            },
+            {
+                "_address": "0x73a052500105205d34daf004eab301916da8190f",
+                "decimals": "18",
+                "name": "yTUSD"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0x8038c01a0390a8c547446a0b2c18fc9aefecc10c",
+        "cumulativeVolumeUSD": "70370328711951222548040",
+        "tokens": [
+            {
+                "_address": "0x5bc25f649fc4e26069ddf4cf4010f9f706c23831",
+                "decimals": "18",
+                "name": "DUSD"
+            },
+            {
+                "_address": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
+                "decimals": "18",
+                "name": "3Crv"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0x4f062658eaaf2c1ccf8c8e36d6824cdf41167956",
+        "cumulativeVolumeUSD": "1747522849979225130154469",
+        "tokens": [
+            {
+                "_address": "0x056fd409e1d7a124bd7017459dfea2f387b6d5cd",
+                "decimals": "2",
+                "name": "GUSD"
+            },
+            {
+                "_address": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
+                "decimals": "18",
+                "name": "3Crv"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0x3ef6a01a0f81d6046290f3e2a8c5b843e738e604",
+        "cumulativeVolumeUSD": "23986018694643043022325",
+        "tokens": [
+            {
+                "_address": "0xdf574c24545e5ffecb9a659c229253d4111d87e1",
+                "decimals": "8",
+                "name": "HUSD"
+            },
+            {
+                "_address": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
+                "decimals": "18",
+                "name": "3Crv"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0xe7a24ef0c5e95ffb0f6684b813a78f2a3ad7d171",
+        "cumulativeVolumeUSD": "32318055058227724701013",
+        "tokens": [
+            {
+                "_address": "0x0e2ec54fc0b509f445631bf4b91ab8168230c752",
+                "decimals": "18",
+                "name": "LINKUSD"
+            },
+            {
+                "_address": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
+                "decimals": "18",
+                "name": "3Crv"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0x8474ddbe98f5aa3179b3b3f5942d724afcdec9f6",
+        "cumulativeVolumeUSD": "691933237826514983726984",
+        "tokens": [
+            {
+                "_address": "0xe2f2a5c287993345a840db3b0845fbc70f5935a5",
+                "decimals": "18",
+                "name": "mUSD"
+            },
+            {
+                "_address": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
+                "decimals": "18",
+                "name": "3Crv"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0xc18cc39da8b11da8c3541c598ee022258f9744da",
+        "cumulativeVolumeUSD": "6376967496753084022634",
+        "tokens": [
+            {
+                "_address": "0x196f4727526ea7fb1e17b2071b3d8eaa38486988",
+                "decimals": "18",
+                "name": "RSV"
+            },
+            {
+                "_address": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
+                "decimals": "18",
+                "name": "3Crv"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0x3e01dd8a5e1fb3481f0f589056b428fc308af0fb",
+        "cumulativeVolumeUSD": "43566530446103168035069",
+        "tokens": [
+            {
+                "_address": "0x1c48f86ae57291f7686349f12601910bd8d470bb",
+                "decimals": "18",
+                "name": "USDK"
+            },
+            {
+                "_address": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
+                "decimals": "18",
+                "name": "3Crv"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0x0f9cb53ebe405d49a0bbdbd291a65ff571bc83e1",
+        "cumulativeVolumeUSD": "3393708415077095550907627",
+        "tokens": [
+            {
+                "_address": "0x674c6ad92fd080e4004b2312b45f796a192d27a0",
+                "decimals": "18",
+                "name": "USDN"
+            },
+            {
+                "_address": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
+                "decimals": "18",
+                "name": "3Crv"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0x42d7025938bec20b69cbae5a77421082407f053a",
+        "cumulativeVolumeUSD": "1952217950675408779758665",
+        "tokens": [
+            {
+                "_address": "0x1456688345527be1f37e9e627da0837d6f08c925",
+                "decimals": "18",
+                "name": "USDP"
+            },
+            {
+                "_address": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
+                "decimals": "18",
+                "name": "3Crv"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0x890f4e345b1daed0367a877a1612f86a1f86985f",
+        "cumulativeVolumeUSD": "297302631552091288824147",
+        "tokens": [
+            {
+                "_address": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+                "decimals": "18",
+                "name": "UST"
+            },
+            {
+                "_address": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
+                "decimals": "18",
+                "name": "3Crv"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0x071c661b4deefb59e2a3ddb20db036821eee8f4b",
+        "cumulativeVolumeUSD": "18877572025880172566",
+        "tokens": [
+            {
+                "_address": "0x9be89d2a4cd102d8fecc6bf9da793be995c22541",
+                "decimals": "8",
+                "name": "BBTC"
+            },
+            {
+                "_address": "0x075b1bb99792c9e1041ba13afef80c91a1e70fb3",
+                "decimals": "18",
+                "name": "sbtcCrv"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0xd81da8d904b52208541bade1bd6595d8a251f8dd",
+        "cumulativeVolumeUSD": "5576943610825642728",
+        "tokens": [
+            {
+                "_address": "0x8064d9ae6cdf087b1bcd5bdf3531bd5d8c537a68",
+                "decimals": "18",
+                "name": "oBTC"
+            },
+            {
+                "_address": "0x075b1bb99792c9e1041ba13afef80c91a1e70fb3",
+                "decimals": "18",
+                "name": "sbtcCrv"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0x7f55dde206dbad629c080068923b36fe9d6bdbef",
+        "cumulativeVolumeUSD": "5892913876166331700",
+        "tokens": [
+            {
+                "_address": "0x5228a22e72ccc52d415ecfd199f99d0665e7733b",
+                "decimals": "18",
+                "name": "pBTC"
+            },
+            {
+                "_address": "0x075b1bb99792c9e1041ba13afef80c91a1e70fb3",
+                "decimals": "18",
+                "name": "sbtcCrv"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0xc25099792e9349c7dd09759744ea681c7de2cb66",
+        "cumulativeVolumeUSD": "56609768907825217217",
+        "tokens": [
+            {
+                "_address": "0x8daebade922df735c38c80c7ebd708af50815faa",
+                "decimals": "18",
+                "name": "TBTC"
+            },
+            {
+                "_address": "0x075b1bb99792c9e1041ba13afef80c91a1e70fb3",
+                "decimals": "18",
+                "name": "sbtcCrv"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0xecd5e75afb02efa118af914515d6521aabd189f1",
+        "cumulativeVolumeUSD": "63477603280023915118884",
+        "tokens": [
+            {
+                "_address": "0x0000000000085d4780b73119b644ae5ecd22b376",
+                "decimals": "18",
+                "name": "TUSD"
+            },
+            {
+                "_address": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
+                "decimals": "18",
+                "name": "3Crv"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0xed279fdd11ca84beef15af5d39bb4d4bee23f0ca",
+        "cumulativeVolumeUSD": "12349130992910005247974296",
+        "tokens": [
+            {
+                "_address": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
+                "decimals": "18",
+                "name": "LUSD"
+            },
+            {
+                "_address": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
+                "decimals": "18",
+                "name": "3Crv"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0xd632f22692fac7611d2aa1c0d552930d43caed3b",
+        "cumulativeVolumeUSD": "7226439384061840154058259",
+        "tokens": [
+            {
+                "_address": "0x853d955acef822db058eb8505911ed77f175b99e",
+                "decimals": "18",
+                "name": "FRAX"
+            },
+            {
+                "_address": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
+                "decimals": "18",
+                "name": "3Crv"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0x4807862aa8b2bf68830e4c8dc86d0e9a998e085a",
+        "cumulativeVolumeUSD": "34596207883835771571922",
+        "tokens": [
+            {
+                "_address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+                "decimals": "18",
+                "name": "BUSD"
+            },
+            {
+                "_address": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
+                "decimals": "18",
+                "name": "3Crv"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0xf9440930043eb3997fc70e1339dbb11f341de7a8",
+        "cumulativeVolumeUSD": "348647683598046571355",
+        "tokens": [
+            {
+                "_address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+                "decimals": 18,
+                "name": "ETH"
+            },
+            {
+                "_address": "0x9559aaa82d9649c7a7b220e7c461d2e74c9a3593",
+                "decimals": "18",
+                "name": "rETH"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0x43b4fdfd4ff969587185cdb6f0bd875c5fc83f8c",
+        "cumulativeVolumeUSD": "3510209486925630673320414",
+        "tokens": [
+            {
+                "_address": "0xbc6da0fe9ad5f3b0d58160288917aa56653660e9",
+                "decimals": "18",
+                "name": "alUSD"
+            },
+            {
+                "_address": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
+                "decimals": "18",
+                "name": "3Crv"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0x80466c64868e1ab14a1ddf27a676c3fcbe638fe5",
+        "cumulativeVolumeUSD": "264372732446897210853",
+        "tokens": [
+            {
+                "_address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+                "decimals": "6",
+                "name": "USDT"
+            },
+            {
+                "_address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+                "decimals": "8",
+                "name": "WBTC"
+            },
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": "18",
+                "name": "WETH"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0x618788357d0ebd8a37e763adab3bc575d54c2c7d",
+        "cumulativeVolumeUSD": "104989460796576522147125",
+        "tokens": [
+            {
+                "_address": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919",
+                "decimals": "18",
+                "name": "RAI"
+            },
+            {
+                "_address": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
+                "decimals": "18",
+                "name": "3Crv"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0x5a6a4d54456819380173272a5e8e9b9904bdf41b",
+        "cumulativeVolumeUSD": "16240831084523720032033276",
+        "tokens": [
+            {
+                "_address": "0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3",
+                "decimals": "18",
+                "name": "MIM"
+            },
+            {
+                "_address": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
+                "decimals": "18",
+                "name": "3Crv"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0xfd5db7463a3ab53fd211b4af195c5bccc1a03890",
+        "cumulativeVolumeUSD": "7844006716900006466656",
+        "tokens": [
+            {
+                "_address": "0xc581b735a1688071a1746c968e0798d642ede491",
+                "decimals": "6",
+                "name": "EURT"
+            },
+            {
+                "_address": "0xd71ecff9342a5ced620049e616c5035f1db98620",
+                "decimals": "18",
+                "name": "sEUR"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0x4e0915c88bc70750d68c481540f081fefaf22273",
+        "cumulativeVolumeUSD": "53259351978171798398779",
+        "tokens": [
+            {
+                "_address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                "decimals": "6",
+                "name": "USDC"
+            },
+            {
+                "_address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+                "decimals": "6",
+                "name": "USDT"
+            },
+            {
+                "_address": "0xa693b19d2931d498c5b318df961919bb4aee87a5",
+                "decimals": "6",
+                "name": "UST"
+            },
+            {
+                "_address": "0x853d955acef822db058eb8505911ed77f175b99e",
+                "decimals": "18",
+                "name": "FRAX"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0x1005f7406f32a61bd760cfa14accd2737913d546",
+        "cumulativeVolumeUSD": "208111994100559113335",
+        "tokens": [
+            {
+                "_address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                "decimals": "6",
+                "name": "USDC"
+            },
+            {
+                "_address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+                "decimals": "6",
+                "name": "USDT"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0xdcef968d416a41cdac0ed8702fac8128a64241a2",
+        "cumulativeVolumeUSD": "16457437097874446827349413",
+        "tokens": [
+            {
+                "_address": "0x853d955acef822db058eb8505911ed77f175b99e",
+                "decimals": "18",
+                "name": "FRAX"
+            },
+            {
+                "_address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                "decimals": "6",
+                "name": "USDC"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0xa1f8a6807c402e4a15ef4eba36528a3fed24e577",
+        "cumulativeVolumeUSD": "4564808113890419334485",
+        "tokens": [
+            {
+                "_address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+                "decimals": 18,
+                "name": "ETH"
+            },
+            {
+                "_address": "0x5e8422345238f34275888049021821e8e08caa1f",
+                "decimals": "18",
+                "name": "frxETH"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0xf253f83aca21aabd2a20553ae0bf7f65c755a07f",
+        "cumulativeVolumeUSD": "22060691978171746669",
+        "tokens": [
+            {
+                "_address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+                "decimals": "8",
+                "name": "WBTC"
+            },
+            {
+                "_address": "0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6",
+                "decimals": "18",
+                "name": "sBTC"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0xae34574ac03a15cd58a92dc79de7b1a0800f1ce3",
+        "cumulativeVolumeUSD": "110564675943431587177",
+        "tokens": [
+            {
+                "_address": "0x853d955acef822db058eb8505911ed77f175b99e",
+                "decimals": "18",
+                "name": "FRAX"
+            },
+            {
+                "_address": "0x8e870d67f660d95d5be530380d0ec0bd388289e1",
+                "decimals": "18",
+                "name": "USDP"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0xbfab6fa95e0091ed66058ad493189d2cb29385e6",
+        "cumulativeVolumeUSD": "98867124791831310859",
+        "tokens": [
+            {
+                "_address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+                "decimals": 18,
+                "name": "ETH"
+            },
+            {
+                "_address": "0xa2e3356610840701bdf5611a53974510ae27e2e1",
+                "decimals": "18",
+                "name": "wBETH"
+            }
+        ]
+    },
+    {
+        "dexId": "CURVE",
+        "poolId": "0xceaf7747579696a2f0bb206a14210e3c9e6fb269",
+        "cumulativeVolumeUSD": "98867124791831310859",
+        "tokens": [
+            {
+                "_address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+                "decimals": 6,
+                "name": "USDT"
+            },
+            {
+                "_address": "0xa693b19d2931d498c5b318df961919bb4aee87a5",
+                "decimals": "6",
+                "name": "UST"
+            }
+        ]
+    }
+]

@@ -1,0 +1,547 @@
+[
+    {
+        "dexId": "DODO",
+        "poolId": "0x8917ef39de7f17b4745c64205f6beb0b0602024f",
+        "cumulativeVolumeUSD": 2505.8823440339916,
+        "tokens": [
+            {
+                "_address": "0x4b520c812e8430659fc9f12f6d0c39026c83588d",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "DODO",
+        "poolId": "0x71f80c363b2383a96f3fdb88b000567b63faadb1",
+        "cumulativeVolumeUSD": 10885.763384870459,
+        "tokens": [
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0xd7efb00d12c2c13131fd319336fdf952525da2af",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "DODO",
+        "poolId": "0x1188606489fb0f7a34370703f5d4c8c8a7bb2806",
+        "cumulativeVolumeUSD": 39.23332357762025,
+        "tokens": [
+            {
+                "_address": "0x198d14f2ad9ce69e76ea330b374de4957c3f850a",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "DODO",
+        "poolId": "0x24060dd55ddb1a1482d15334e24b25cbf35de265",
+        "cumulativeVolumeUSD": 5124.491258079449,
+        "tokens": [
+            {
+                "_address": "0x0de05f6447ab4d22c8827449ee4ba2d5c288379b",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "DODO",
+        "poolId": "0xcc5cffeb08e0fad4b55b1256c12c419cfd3ebcc8",
+        "cumulativeVolumeUSD": 809.781968,
+        "tokens": [
+            {
+                "_address": "0x59e9261255644c411afdd00bd89162d09d862e38",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "DODO",
+        "poolId": "0xf7cf70174474e762eec66d913916380144c7ac6d",
+        "cumulativeVolumeUSD": 244.206862,
+        "tokens": [
+            {
+                "_address": "0xe66747a101bff2dba3697199dcce5b743b454759",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "DODO",
+        "poolId": "0x8a326ab6ba2f19db9a17b13d473c974b04ff7b7f",
+        "cumulativeVolumeUSD": 21004.415920742555,
+        "tokens": [
+            {
+                "_address": "0x6fe56c0bcdd471359019fcbc48863d6c3e9d4f41",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "DODO",
+        "poolId": "0xe8d16be948c7022429327010f424f8f9d57b3853",
+        "cumulativeVolumeUSD": 271.5662149693394,
+        "tokens": [
+            {
+                "_address": "0xc03fbf20a586fa89c2a5f6f941458e1fbc40c661",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "DODO",
+        "poolId": "0x18984b9350934eac9a2931ae03428f9c7c5ccc4a",
+        "cumulativeVolumeUSD": 3762.0654616609777,
+        "tokens": [
+            {
+                "_address": "0x72c60bfffef18dca51db32b52b819a951b6ddbed",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "DODO",
+        "poolId": "0xec98fe9d615d157e699390f17c7ad262d06fba09",
+        "cumulativeVolumeUSD": 1832.0820318568874,
+        "tokens": [
+            {
+                "_address": "0xa02120696c7b8fe16c09c749e4598819b2b0e915",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "DODO",
+        "poolId": "0xfcb7ebb631ce424b055912eb8f3cc4efdec30081",
+        "cumulativeVolumeUSD": 6466.058519454407,
+        "tokens": [
+            {
+                "_address": "0x7ddc52c4de30e94be3a6a0a2b259b2850f421989",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "DODO",
+        "poolId": "0x56e821bac3d5969a2b836a7ce2b5b71f24f94fbf",
+        "cumulativeVolumeUSD": 567.9679494732628,
+        "tokens": [
+            {
+                "_address": "0x44f5909e97e1cbf5fbbdf0fc92fd83cde5d5c58a",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+
+    {
+        "dexId": "DODO",
+        "poolId": "0x05ebfddb5bafa62d931fe8dd598bdeaa58a46dcb",
+        "cumulativeVolumeUSD": 4453.584631091104,
+        "tokens": [
+            {
+                "_address": "0xcedefe438860d2789da6419b3a19cece2a41038d",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "DODO",
+        "poolId": "0xf0a020f05afe2392e41870592edc710dbe124f29",
+        "cumulativeVolumeUSD": 1046.3790409586393,
+        "tokens": [
+            {
+                "_address": "0x9d71ce49ab8a0e6d2a1e7bfb89374c9392fd6804",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "DODO",
+        "poolId": "0x5e91157cc7e3d3ac7ce8f83d2bb1da26a8ef4994",
+        "cumulativeVolumeUSD": 5345.969146446057,
+        "tokens": [
+            {
+                "_address": "0xa23c1194d421f252b4e6d5edcc3205f7650a4ebe",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "DODO",
+        "poolId": "0x4fcb1570015b99698176a5b84b50e01c2e6e7ec8",
+        "cumulativeVolumeUSD": 2696.685566,
+        "tokens": [
+            {
+                "_address": "0xba50933c268f567bdc86e1ac131be072c6b0b71a",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "DODO",
+        "poolId": "0xd7702549918a57ff296ea5236870c66801319c14",
+        "cumulativeVolumeUSD": 6105.314546117085,
+        "tokens": [
+            {
+                "_address": "0x485d17a6f1b8780392d53d64751824253011a260",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "DODO",
+        "poolId": "0xf23feca62d214df0e46fb9bad3f8ad070849f4b6",
+        "cumulativeVolumeUSD": 2881.962613718615,
+        "tokens": [
+            {
+                "_address": "0xfc0d6cf33e38bce7ca7d89c0e292274031b7157a",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "DODO",
+        "poolId": "0xf7cdcd73f95ed21e49afe578c37b22abe09403d1",
+        "cumulativeVolumeUSD": 4489.45417865774,
+        "tokens": [
+            {
+                "_address": "0xd7efb00d12c2c13131fd319336fdf952525da2af",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "DODO",
+        "poolId": "0x542a33e9dd0b4d50c04b637855283606c8490dc2",
+        "cumulativeVolumeUSD": 87.01824257973607,
+        "tokens": [
+            {
+                "_address": "0x0de05f6447ab4d22c8827449ee4ba2d5c288379b",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "DODO",
+        "poolId": "0xaf73260073a170a4129fd740724155bc29b6a3df",
+        "cumulativeVolumeUSD": 1367.0355349360834,
+        "tokens": [
+            {
+                "_address": "0x46f84dc6564cdd93922f7bfb88b03d35308d87c9",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "DODO",
+        "poolId": "0xf3e5906c1568faa45774b07c4a930d6a7638b1da",
+        "cumulativeVolumeUSD": 8446.825976416656,
+        "tokens": [
+            {
+                "_address": "0xcb8fb2438a805664cd8c3e640b85ac473da5be87",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "DODO",
+        "poolId": "0x0f5814de3581cb1d8ad2b608d6ef2e6409738c36",
+        "cumulativeVolumeUSD": 1047.2829236629075,
+        "tokens": [
+            {
+                "_address": "0x9afa9999e45484adf5d8eed8d9dfe0693bacd838",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "DODO",
+        "poolId": "0x7e350f4ff5d3ecf97bea7e918244cb9c2605c09c",
+        "cumulativeVolumeUSD": 109988.52038049516,
+        "tokens": [
+            {
+                "_address": "0x7da2641000cbb407c329310c461b2cb9c70c3046",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "DODO",
+        "poolId": "0x946e67113c9e59d1dcea647d206a915a0a39610f",
+        "cumulativeVolumeUSD": 1574.7033977039289,
+        "tokens": [
+            {
+                "_address": "0x1b6e9c73bee68102d9dd4a2627f97bff4183ab0a",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "DODO",
+        "poolId": "0x72ce482167b4f91d058fac00b756deb69d10aceb",
+        "cumulativeVolumeUSD": 4646.44461640029,
+        "tokens": [
+            {
+                "_address": "0xb056c38f6b7dc4064367403e26424cd2c60655e1",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "DODO",
+        "poolId": "0x24b0da02a6df204af9f9c129792b29c79518b47e",
+        "cumulativeVolumeUSD": 8862.737242920277,
+        "tokens": [
+            {
+                "_address": "0x1161ab556baa457994b1d6a6cca3a7a6891009fd",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "DODO",
+        "poolId": "0x7f4be296e7607bd71e3e917a68c66ec2d774c05c",
+        "cumulativeVolumeUSD": 1587.616921179009,
+        "tokens": [
+            {
+                "_address": "0xca93a5d889e445cecb42e5386f7d516511d2820f",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "DODO",
+        "poolId": "0x3dda7b60a6f7736c5fa65052113ae7546fd4aae5",
+        "cumulativeVolumeUSD": 10885.763384870459,
+        "tokens": [
+            {
+                "_address": "0x4563554284aa7148d6e6d0351519e954ba3b6e02",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "DODO",
+        "poolId": "0x1dcc5287c560c0ae98b0bfa2e6816cc1e5a317de",
+        "cumulativeVolumeUSD": 10885.763384870459,
+        "tokens": [
+            {
+                "_address": "0xec5483804e637d45cde22fa0869656b64b5ab1ab",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "DODO",
+        "poolId": "0x75c5744faacdb8a755b5d65c3f5c7aa0314918da",
+        "cumulativeVolumeUSD": 10885.763384870459,
+        "tokens": [
+            {
+                "_address": "0x4123a133ae3c521fd134d7b13a2dec35b56c2463",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    },
+    {
+        "dexId": "DODO",
+        "poolId": "0xf5ca9705c72d2f6ed825800e8e8220a01a2f973b",
+        "cumulativeVolumeUSD": 10885.763384870459,
+        "tokens": [
+            {
+                "_address": "0x7b4328c127b85369d9f82ca0503b000d09cf9180",
+                "decimals": 18,
+                "name": "a"
+            },
+            {
+                "_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "decimals": 18,
+                "name": "b"
+            }
+        ]
+    }
+]
